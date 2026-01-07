@@ -1,0 +1,65 @@
+-----------------------------------------------
+XRNIS			: 8.1
+XCVAT			: 8.4
+XPROTO	 		: 7.6
+XCEVT			: 9.2
+XSF1COM			: 1.19
+XSMS			: 9.3
+XSMSC			: 4.00
+XTRANSVEIL		: 7.0
+XVEBONIP			: 7.0
+XVOIP			: 7.0
+XSAS			: 1.13
+XIP 			: 31.08
+XDEFAULT 		: 9.15
+XDEFAULT3	 	: 1.16
+XHEARTBEAT		: 2.32
+XHEARTBEAT2		: 3.13
+XSIAIP			: 2.06
+XREPLIK 			: 1.13
+XSYNC 			: 1.13
+XGTC 			: 4.18
+XFTP 			: 2.09
+XCEVTONE 		: 1.16
+XPARTITION		: 1.09
+XSURGARD 		: 2.08
+XPURGE			: 1.13
+XOPENSSL 		: 9.50
+XMAIL			: 4.05
+XSIAUDP 			: 2.01
+XCSMS			: 2.01
+XIMG 			: 1.10
+XODBC			: 1.11
+XTICTAC 			: 3.02
+XPURGEDATABASE		: 1.11
+XSIP 			: 3.01
+XLOFT 			: 7.30
+XLOFT2 			: 3.00
+XCONF & XCONF2		: 2.01
+XSECHO2			: 1.00
+XSECHO                   : 2.0
+XPING			: 1.04
+XCXML                    : 1.10
+XNUAGE2                  : 1.15
+XCMESSAGE                : 2.11
+XCSPEECH                 : 0.40
+XACTIVITY                : 3.00
+XSEARCHSSH               : 1.00
+------------------------------------------------
+VAT_SECOM3_SIMULATOR     : 1.09
+------------------------------------------------
+API NETBRICKS FC9 32b	: L12178-4.3.1.846-tty-lspeed-2.6.25-14.fc9.i686
+API NETBRICKS FC14 32b	: L12178-4.5.8.1954
+API NETBRICKS FC17 32b	: L12178-4.5.8.1954
+API NETBRICKS FC17 64b	: L12178-4.5.8.195
+API NETBRICKS OL6.5 64b	: L12573-1.3.0.1956
+API NETBRICKS OL7 64b	: L12573-1.3.0.1956
+RABBITMQ LIB		: 1.06
+SQLLIB			: 2.02
+SQLLIBv2		: 3.00
+SQLLIBv3		: 4.00
+SQLEXT			: 1.0
+SQLEXTHB		: 1.0
+IMAGELIB2		: 5.04
+DATATRANSFERLIB2	: 3.07
+------------------------------------------------

@@ -1,0 +1,84 @@
+----------------START--------------------------
+XCEVTONE		: Done
+XPARTITION		: Done
+XSURGARD		: Done
+XDEFAULT		: Not Done
+XDEFAULT2		: Done
+XDEFAULT3		: Not Done
+XPURGE			: Done
+XSIAIP			: Done
+XSIADC09		: Done
+XSIADC09GRIP			: Done
+XSIADC09GRIPJSON			: Done
+XSIADC09HUB		: Done
+XFRONTEL			: Done
+XFRONTELJSON			: Done
+XSIAUDP			: Done
+XHEARTBEAT		: Not Done
+XHEARTBEAT_MYSQL	  : Not Done
+XHEARTBEAT2		: Done
+XHEARTBEAT2_MYSQL	 : Done
+XREPLIK			: Done
+XSYNC2			: Done
+XGTC			: Done
+XGTC2			: Done
+XGTC3			: Done
+XFTP			: Done
+XOPENSSL		: Done
+XCSMS			: Done
+XIMG			: Done
+XSF1COM			: Done
+XTICTAC			: Done
+XPURGEDATABASE		: Done
+XMAIL			: Done
+XCCMD			: Done
+XCCMD V3			: Done
+XADEMCO685		: Done
+XRNIS			: Done
+XRNIS2			: Done
+XIP			: Done
+XSMS			: Done
+XPE12			: Done
+XSUPERVWEB		      : Done
+XLOADIP2		: Done
+XLOADIP			: Done
+XSECHO			: Done
+XSECHO2			: Done
+XACTIVITY		: Done
+XSEVT			: Done
+XPRINT			: Done
+XCVAT			: Done
+XCIST			: Done
+XSVAT			: Done
+XSVATM		      : Not Done
+XALA			: Done
+XPROTO			: Done
+XCEVT			: Done
+XSMSC			: Done
+XSAS			: Done
+XSASEXTMACHINE		: Done
+XSIST			: Done
+XCONF			: Done
+XCONF2			: Done
+XTRANSVEIL		: Done
+XVOIP			: Done
+XVEBONIP		: Done
+XSMSLOADTEST		: Done
+XSIADC09LOADTEST		: Done
+XPING			: Done
+XCXML			: Done
+XNUAGE2			: Not Done
+XNUAGE2_MYSQL	     : Not Done
+XCMESSAGE		: Done
+XSEARCH SITE / GUID	: Done
+XPUSH			: Done
+XPUSHMONGODB			: Done
+XPUSHJSON			: Done
+XLOADIP2		: Done
+REDIS	    : 2.8.4 ( REDIS-2.8.4/ - Jan 2015) : Done
+REDIS	    : 3.2.3 ( REDIS-3.2.3/ ) : Done 
+REDIS	    : 4.0.1 ( REDIS-4.0.1/ - Jui 2017) : Done 
+REDIS	    : 5.0.4 ( REDIS-5.0.4/ - Mar 2019) : Done 
+REDIS	: Not done ( REDIS-7.0.5/ - )
+REDIS	: Not done ( REDIS-7.05 - Sep 2021)
+-----------------END---------------------------

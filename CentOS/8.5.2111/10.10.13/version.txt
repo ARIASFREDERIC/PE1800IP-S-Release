@@ -1,0 +1,99 @@
+-----------------------------------------------
+XRNIS			: 12.0
+XRNIS2                   : 13.2
+XCVAT			: 9.0
+XPROTO	 		: 9.0
+XCEVT			: 36.50
+XSF1COM			: 1.19
+XSMS			: 20.00
+XSMSC			: 4.00
+XTRANSVEIL		: 7.0
+XVEBONIP			: 7.0
+XVOIP			: 7.1
+XSAS			: 1.13
+XIP 			: 91.00
+XDEFAULT 		: 13.70
+XDEFAULT3	 	: 1.30
+XHEARTBEAT		: 6.00
+XHEARTBEAT_MYSQL	 : 6.00
+XHEARTBEAT2		: 4.10
+XSIAIP			: 5.20
+XSIADC09		 	: 5.70
+XSIADC09GRIP		: 10.00
+XSIADC09HUB  		: 1.70
+XFRONTEL			: 1.10
+XREPLIK 			: 1.13
+XSYNC 			: 1.18
+XGTC 			: 5.10
+XFTP 			: 9.00
+XCEVTONE 		: 1.60
+XPARTITION		: 1.40
+XSURGARD 		: 2.09
+XPURGE			: 1.60
+XOPENSSL 		: 9.90
+XMAIL			: 4.60
+XSIAUDP 			: 2.01
+XCSMS			: 2.01
+XIMG 			: 1.20
+XODBC			: 1.11
+XTICTAC 			: 3.02
+XPURGEDATABASE		: 1.11
+XSIP 			: 3.01
+XVAV			: 62.00
+XLOFT 			: 65.00
+XLOFT2 			: 3.00
+XLOFT3		   	: 9.20
+XLOFT4		   	: 9.40
+XLOFT5				   : 16.00
+XLOFT6				   : 16.00
+REFTECH		    : 213
+XCONF & XCONF2		: 2.01
+XSECHO2			: 1.01
+XSECHO		   	: 2.1
+XPING			: 1.10
+XCXML		    	: 1.10
+XNUAGE2		  	: 6.80
+XNUAGE2_MYSQL	    : 6.80
+XCMESSAGE		: 2.20
+XCSPEECH		 	: 1.60
+XACTIVITY		: 3.00
+XSEARCHSSH 		: 1.00
+XFRONTELCC		: 6.03
+GRIP		     : 
+XCIST			: 1.10
+XPING_IST  		: 1.10
+XSIST		    : 1.10
+XSVAT		    : 1.50
+XPUSH			: 2.30
+------------------------------------------------
+REDIS		    : KO ( REDIS-2.8.4/ - Jan 2015)
+REDIS		    : KO ( REDIS-3.2.3/ )
+REDIS		    : KO ( REDIS-4.0.1/ - Jui 2017)
+REDIS		    : 5.0.4 ( REDIS-5.0.4/ - Mar 2019)
+------------------------------------------------
+VAT_SECOM3_SIMULATOR     : 1.09
+SECOM3_SIMULATOR		: 1.08
+FRONTEL_SIMULATOR	: 1.08
+SIA_SIMULATOR	 	: 1.08
+XHB_SIMULATOR		: 2.01 2.01 3.03 3.03
+------------------------------------------------
+API NETBRICKS FC9 32b	: L12178-4.3.1.846-tty-lspeed-2.6.25-14.fc9.i686
+API NETBRICKS FC14 32b	: L12178-4.5.8.1954
+API NETBRICKS FC17 32b	: L12178-4.5.8.1954
+API NETBRICKS FC17 64b	: L12178-4.5.8.195
+API NETBRICKS OL6.5 64b	: L12573-1.3.0.1956
+API NETBRICKS OL7 64b	: L12573-1.3.0.1956
+RABBITMQ LIB		: 1.10
+CRYPTOLIB		: 3.10
+SQLLIB			: 2.02
+SQLLIBv2			: 3.00
+SQLLIBv3			: 4.00
+SQLLIB (SECOM3)		: 8.01
+SQLLIBv2 (SECOM3)	: 8.02
+SQLLIBv3 (SECOM3)	: 8.03
+SQLEXT			: 1.0
+SQLEXTHB			: 1.0
+IMAGELIB2		: 5.05
+IMAGELIB2 (SECOM3)	: 15.00
+DATATRANSFERLIB2		: 3.10
+------------------------------------------------

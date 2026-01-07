@@ -1,0 +1,96 @@
+----------------START--------------------------
+XCEVTONE		: Done
+XBOLD		: Done
+XPARTITION		: Done
+XSURGARD		: Done
+XDEFAULT		: Done
+XDEFAULT2		: Done
+XDEFAULT3		: Done
+XPURGE			: Done
+XSIAIP			: Done
+XSIAIPV4			: Done
+XSIADC09		: Done
+XSIADC09GRIP			: Done
+XSIADC09GRIPJSON			: Done
+XSURGARDR			: Done
+XSURGARDRJSON			: Done
+XSIADC09TLS			: Done
+XSIADC09TLSJSON			: Done
+XTESTSQL		       : Done
+XSIADC09HUB		: Done
+XFRONTEL			: Done
+XFRONTELJSON			: Done
+XSIAUDP			: Done
+XHEARTBEAT		: Done
+XHEARTBEAT_MYSQL    : Done
+XHEARTBEAT_LOAD    	: Done
+XHEARTBEATV4		: Done
+XHEARTBEATV4_MYSQL    : Done
+XHEARTBEATV4_LOAD    : Not Done
+XHEARTBEAT2		: Done
+XHEARTBEAT2_MYSQL  : Done
+XREPLIK			: Done
+XSYNC2			: Done
+XGTC			: Done
+XGTC2			: Done
+XGTC3			: Done
+XFTP			: Done
+XOPENSSL		: Done
+XCSMS			: Done
+XIMG			: Done
+XSF1COM			: Done
+XTICTAC			: Done
+XPURGEDATABASE		: Done
+XMAIL			: Done
+XCCMD			: Done
+XCCMD V3			: Done
+XADEMCO685		: Done
+XRNIS			: Done
+XRNIS2			: Done
+XIP			: Done
+XSMS			: Done
+XPE12			: Done
+XSUPERVWEB		      : Done
+XLOADIP2		: Done
+XLOADIP			: Done
+XSECHO			: Done
+XSECHO2			: Done
+XACTIVITY		: Done
+XSEVT			: Done
+XPRINT			: Done
+XCVAT			: Done
+XCIST			: Done
+XSVAT			: Done
+XSVATM		      : Done
+XALA			: Done
+XPROTO			: Done
+XCEVT			: Done
+XSMSC			: Done
+XSAS			: Done
+XSASEXTMACHINE		: Done
+XSIST			: Done
+XCONF			: Done
+XCONF2			: Done
+XTRANSVEIL		: Done
+XVOIP			: Not Done
+XVEBONIP		: Not Done
+XSMSLOADTEST		: Done
+XSIADC09LOADTEST		: Done
+XPING			: Done
+XCXML			: Done
+XNUAGE2			: Done
+XNUAGE2_MYSQL          : Done
+XCMESSAGE		: Done
+XSEARCH SITE / GUID	: Not Done
+XPUSH			: Done
+XPUSHMONGODB			: Done
+XPUSHJSON			: Done
+XPUSHJSONBACKUP			: Done
+XLOADIP2		: Done
+REDIS	    : Not done ( REDIS-2.8.4/ - Jan 2015)
+REDIS	    : Not done ( REDIS-3.2.3/ )
+REDIS	    : Not done ( REDIS-4.0.1/ - Jui 2017)
+REDIS	    : Not done ( REDIS-5.0.4/ - Mar 2019)
+REDIS	: Not done ( REDIS-7.0.5/ - )
+REDIS	: Redis 7.0.5 Released Wed Sep 21  : Done 
+-----------------END---------------------------
