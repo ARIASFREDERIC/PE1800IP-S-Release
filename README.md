@@ -4,17 +4,34 @@ See release and checksum of software
 
 Folder by OS :
 
-- CentOS : Not supported.
+- Redhat Linux : (Not Redhat Entreprise )
+   - Redhat 7.1 (first release of PE) :date: 16 April 2001 : ==End of life.==
+   - Redhat 7.2 :date: 22 October 2001 : 
+   - Redhat 9 :date: 31 March 2003 : 
 
-- Debian : Not supported.
+- CentOS : Not supported, POC done.
+
+- Debian : ==Only for internal validation.==
+   - Debian 12 :
+   - Debian 13 : 
 
 - Fedora : End of life since Fedora 17.
+  - Fedora 9 : ==End of life.== (No new build of PE)
+  - Fedora 14 : ==End of life.== (No new build of PE)
+  - Fedora 17 : ==End of life.== (No new build of PE)
 
-- Kali : Only for internal validation.
+- Kali : ==Only for internal validation.==
 
-- OracleLinux : Oracle Linux is compatible with Redhat because it's fork. 
+- OracleLinux : Oracle Linux is compatible with Redhat because it's fork. (https://en.wikipedia.org/wiki/Oracle_Linux)
+   - Oracle Linux 6 :date: 2011-02-11 : ==End of life.== (No new build of PE)
+   - Oracle Linux 7 :date: 2014-07-23 : ==End of life.== (No new build of PE)
+   - Oracle Linux 8 :date: 2019-07-18 : 
+   - Oracle Linux 9 :date: 2022-06-30 : 
+   - Oracle Linux 10 :date: 2025-06-26 : No build for the moment, wait Release 10.1
 
-- Ubuntu : Ubuntu : 
+- Ubuntu : 
+   - Ubuntu 22.x :
+   - Ubuntu 24.x : 
 
 ## Oracle Linux 
 
