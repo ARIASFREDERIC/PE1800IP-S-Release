@@ -5,16 +5,16 @@ See release and checksum of software
 Folder by OS :
 
 - Redhat Linux : (Not Redhat Entreprise )
-   - Redhat 7.1 (first release of PE) :date: 16 April 2001 : ==End of life.==
-   - Redhat 7.2 :date: 22 October 2001 : 
-   - Redhat 8 :date:  :  
-   - Redhat 9 :date: 31 March 2003 : 
+   - Redhat 7.1 (first release of PE) :date: 16 April 2001 : ==End of life.== (No new build of PE)
+   - Redhat 7.2 :date: 22 October 2001 : ==End of life.== (No new build of PE)
+   - Redhat 8 :date:  :  ==End of life.== (No new build of PE)
+   - Redhat 9 :date: 31 March 2003 : ==End of life.== (No new build of PE)
 
 - CentOS : Not supported, POC done.
    - 
 
 - Debian : ==Only for internal validation.==
-   - Debian 12 :
+   - Debian 12 : ==End of life.== (No new build of PE) 
    - Debian 13 : 
 
 - Fedora : End of life since Fedora 17.
@@ -23,8 +23,8 @@ Folder by OS :
   - Fedora 17 : ==End of life.== (No new build of PE)
 
 - Kali : ==Only for internal validation.==
-   - 2023.2 : 
-   - 2024.4 : 
+   - 2023.2 :  ==End of life.== (No new build of PE)
+   - 2024.4 :  ==End of life.== (No new build of PE)
    - 2025.1 :
 
 
