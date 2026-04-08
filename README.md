@@ -11,7 +11,6 @@ Folder by OS :
    - Redhat 9 :date: 31 March 2003 : ==End of life.== (No new build of PE)
 
 - CentOS : Not supported, POC done.
-   - 
 
 - Debian : ==Only for internal validation.==
    - Debian 12 : ==End of life.== (No new build of PE) 
