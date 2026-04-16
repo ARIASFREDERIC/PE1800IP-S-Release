@@ -1,5 +1,14 @@
 | OS                                                       | Release                   | Date       | Hour             | Action           |
 | -------------------------------------------------------- | ------------------------- | ---------- | ---------------- | ---------------- |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.14                 | 2026-04-16 | 10:15:52.167568Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.13                 | 2026-04-14 | 15:15:46.479408Z | M                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.13                 | 2026-04-14 | 14:44:36.017359Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.12                 | 2026-04-13 | 13:30:38.409052Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.11                 | 2026-04-13 | 11:28:17.760699Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.10                 | 2026-04-13 | 11:16:39.853008Z | M                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.10                 | 2026-04-13 | 10:22:58.410805Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.09                 | 2026-04-10 | 12:29:28.804249Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.08                 | 2026-04-09 | 13:44:30.792367Z | A                |
 | Red-Hat-Enterprise-Linux-Server-release-7.9-Maipo_64b    | V10.29.07                 | 2026-04-08 | 14:49:22.794964Z | A                |
 | Red-Hat-Enterprise-Linux-release-9.7-Plow_64b            | V10.29.07                 | 2026-04-08 | 14:36:04.871855Z | A                |
 | Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.07                 | 2026-04-08 | 12:51:42.312156Z | A                |
