@@ -1,1 +1,291 @@
+# Release PE1800IP-S 
+
+# Build done 
+
 Build done 2023-11-29
+
+# Version 
+
+-----------------------------------------------
+XRNIS		: 31.0
+XRNIS2	   : 15.1
+XCVAT		: 9.1
+XPROTO	 	: 9.2
+XCEVT		: 63.60
+XSF1COM		: 1.19
+XSMS		: 23.10
+XSMSC		: 4.00
+XTRANSVEIL	: 7.0
+XVEBONIP		: 7.0
+XVOIP		: 7.1
+XSAS		: 1.13
+XIP 		: 109.00
+XDEFAULT 	: 15.10
+XDEFAULT3	 	: 2.20
+XHEARTBEAT	: 6.41
+XHEARTBEAT_MYSQL	 : 6.41
+XHEARTBEAT2	: 4.10
+XSIAIP		: 7.20
+XSIADC09	 	: 5.70
+XSIADC09GRIP	: 35.00
+XSIADC09HUB  	: 3.01
+XFRONTEL		: 1.60
+XREPLIK 		: 1.13
+XSYNC 		: 1.18
+XGTC 		: 6.20
+XFTP 		: 11.10
+XCEVTONE 	: 2.10
+XBOLD         : 1.10
+XPARTITION	: 1.80
+XSURGARD 	: 3.00
+XPURGE		: 2.01
+XOPENSSL 	: 10.00
+XMAIL		: 6.00
+XSIAUDP 		: 2.01
+XCSMS		: 2.01
+XIMG 		: 1.20
+XODBC		: 1.11
+XTICTAC 		: 3.02
+XPURGEDATABASE	: 1.11
+XSIP 		: 3.01
+XVAV		: 113.00
+XLOFT 		: 99.00
+XLOFT2 		: 3.00
+XLOFT3	   	: 9.20
+XLOFT4	   	: 9.40
+XLOFT5		   : 16.00
+XLOFT6		   : 16.00
+REFTECH	    : 213
+XCONF & XCONF2	: 2.01
+XSECHO2		: 1.01
+XSECHO	   	: 2.1
+XPING		: 1.30
+XCXML	    	: 1.10
+XNUAGE2	  	: 7.40
+XNUAGE2_MYSQL	    : 7.40
+XCMESSAGE	: 2.30
+XCSPEECH	 	: 2.20
+XACTIVITY	: 3.10
+XSEARCHSSH 	: 1.00
+XFRONTELCC	: 6.03
+GRIP	     : 15.00
+XCIST		: 1.10
+XPING_IST  	: 1.10
+XSIST	    : 1.10
+XSVAT	    : 1.50
+XPUSH		: 3.10
+XPUSHMONGODB	     : 2.00
+XPUSHJSON	     : 2.10
+XPUSHJSONBACKUP       : 1.00
+XSUPERWEB	     : /*!    : : : 2-3   */  2.00   */
+XPE12	     : 1.10
+------------------------------------------------
+REDIS	    : KO ( REDIS-2.8.4/ - Jan 2015)
+REDIS	    : KO ( REDIS-3.2.3/ )
+REDIS	    : KO ( REDIS-4.0.1/ - Jui 2017)
+REDIS	    : KO ( REDIS-5.0.4/ - Mar 2019)
+REDIS	: KO ( REDIS-7.0.5/ - )
+------------------------------------------------
+VAT_SECOM3_SIMULATOR     : 1.09
+SECOM3_SIMULATOR	: 1.08
+FRONTEL_SIMULATOR	: 1.08
+SIA_SIMULATOR	 	: 1.08
+XHB_SIMULATOR	: 2.01 2.01 3.03 3.03
+------------------------------------------------
+API NETBRICKS FC9 32b	: L12178-4.3.1.846-tty-lspeed-2.6.25-14.fc9.i686
+API NETBRICKS FC14 32b	: L12178-4.5.8.1954
+API NETBRICKS FC17 32b	: L12178-4.5.8.1954
+API NETBRICKS FC17 64b	: L12178-4.5.8.195
+API NETBRICKS OL6.5 64b	: L12573-1.3.0.1956
+API NETBRICKS OL7 64b	: L12573-1.3.0.1956
+RABBITMQ LIB	: 1.10
+CRYPTOLIB	: 3.10
+CRYPTOLIB_V3	     : 4.00
+SQLLIB		: 6.00
+SQLLIBv2		: 6.00
+SQLLIBv3		: 6.00
+SQLLIB (SECOM3)	: 9.01
+SQLLIBv2 (SECOM3)	: 9.02
+SQLLIBv3 (SECOM3)	: 9.03
+SQLEXT		: 1.0
+SQLEXTHB		: 1.0
+IMAGELIB2	: 5.10
+IMAGELIB2 (SECOM3)	: 20.00
+DATATRANSFERLIB2	: 3.10
+------------------------------------------------
+
+# Build status 
+
+----------------START--------------------------
+XCEVTONE		: Done
+XBOLD		: Done
+XPARTITION		: Done
+XSURGARD		: Done
+XDEFAULT		: Done
+XDEFAULT2		: Done
+XDEFAULT3		: Done
+XPURGE			: Done
+XSIAIP			: Done
+XSIADC09		: Done
+XSIADC09GRIP			: Done
+XSIADC09GRIPJSON			: Done
+XTESTSQL		       : Done
+XSIADC09HUB		: Done
+XFRONTEL			: Done
+XFRONTELJSON			: Done
+XSIAUDP			: Done
+XHEARTBEAT		: Done
+XHEARTBEAT_MYSQL    : Done
+XHEARTBEAT_LOAD    	: Done
+XHEARTBEAT2		: Done
+XHEARTBEAT2_MYSQL  : Done
+XREPLIK			: Done
+XSYNC2			: Done
+XGTC			: Done
+XGTC2			: Done
+XGTC3			: Done
+XFTP			: Done
+XOPENSSL		: Done
+XCSMS			: Done
+XIMG			: Done
+XSF1COM			: Done
+XTICTAC			: Done
+XPURGEDATABASE		: Done
+XMAIL			: Done
+XCCMD			: Done
+XCCMD V3			: Done
+XADEMCO685		: Done
+XRNIS			: Done
+XRNIS2			: Done
+XIP			: Done
+XSMS			: Done
+XPE12			: Done
+XSUPERVWEB		      : Done
+XLOADIP2		: Done
+XLOADIP			: Done
+XSECHO			: Done
+XSECHO2			: Done
+XACTIVITY		: Done
+XSEVT			: Done
+XPRINT			: Done
+XCVAT			: Done
+XCIST			: Done
+XSVAT			: Done
+XSVATM		      : Done
+XALA			: Done
+XPROTO			: Done
+XCEVT			: Done
+XSMSC			: Done
+XSAS			: Done
+XSASEXTMACHINE		: Done
+XSIST			: Done
+XCONF			: Done
+XCONF2			: Done
+XTRANSVEIL		: Done
+XVOIP			: Not Done
+XVEBONIP		: Not Done
+XSMSLOADTEST		: Done
+XSIADC09LOADTEST		: Done
+XPING			: Done
+XCXML			: Done
+XNUAGE2			: Done
+XNUAGE2_MYSQL          : Done
+XCMESSAGE		: Done
+XSEARCH SITE / GUID	: Not Done
+XPUSH			: Done
+XPUSHMONGODB			: Done
+XPUSHJSON			: Done
+XPUSHJSONBACKUP			: Done
+XLOADIP2		: Done
+REDIS	    : Not done ( REDIS-2.8.4/ - Jan 2015)
+REDIS	    : Not done ( REDIS-3.2.3/ )
+REDIS	    : Not done ( REDIS-4.0.1/ - Jui 2017)
+REDIS	    : Not done ( REDIS-5.0.4/ - Mar 2019)
+REDIS	: Not done ( REDIS-7.0.5/ - )
+REDIS	: Redis 7.0.5 Released Wed Sep 21  : Done 
+-----------------END---------------------------
+
+# Checksum 
+
+-----------------------------------------------
+XRNIS		    : 04a8620e17be46b4dbb137d42aa69c76  XRNIS/EXEC/xrnis
+XRNIS2	       : cb9ab13411e7aac0152d3c15e78b8932  XRNIS2/EXEC/xrnis
+XCVAT		    : 1fb749b915f460ce29def7ecadc2bbc7  XCVAT/EXEC/xcvat
+XPROTO		    : a2cb33e7a6fddba0107ff0bba3abe11d  XPROTO/EXEC/xproto
+XCEVT		    : a52b0335db263d3883698db0d9757976  XCEVT/EXEC/xcevt
+XSF1COM		    : 1d1d1873e0a14c96e1cbd3d7d56af26e  XSF1COM/EXEC/xsf1com
+XSMS		    : 8fee9fbe484247fc3e01a123a5e6a295  XSMS/EXEC/xsms
+XSMSC		    : adbbd96148ada23d031b60e862ff2930  XSMSC/EXEC/xsmsc
+TOOLS		: 0774d47d595f207a3d3b2c80b5d021d3  XSMSC/EXEC/xdeleteallsms
+TOOLS		: 3c7b3741a76637a6dfbab9a5102bfc6d  XSMSC/EXEC/xmultisms
+TOOLS		: e7facee77bf2df8453d954a30914b4a5  XSMSC/EXEC/xonesms
+TOOLS		: 141b8306adcbd5fdb27e03ed0aaafb09  XSMSC/EXEC/xonesmsbin
+TOOLS		: 474af3654e123415330ec301deae70aa  XSMSC/EXEC/xucp
+XTRANSVEIL	    : c16ea09e3292dff02d7ded672c30afa7  XTRANSVEIL/EXEC/xtransveil
+XVEBONIP		    : 
+XVOIP		    : 
+XSAS		    : b327e01f60a4f7eab25dfd744b969dfb  XSAS/EXEC/xsas
+XIP		    : b9712fbbfac768a19a2d2fc13949ae3e  XIP/EXEC/xip
+XDEFAULT		    : b8ce15e9ab9091c0886657782a4cf887  XDEFAULT/EXEC/xdefault
+XDEFAULT3	    : 3b9873c0846b8c2dcc7053ce879b1dc3  XDEFAULT3/EXEC/xdefault3
+XHEARTBEAT	    : 31a7717aac77e92d1a832f7b7c5a4a3c  XHEARTBEAT/EXEC/xheartbeat
+XHEARTBEAT_MYSQL	     : 631b1aac6ef43d5e1fa915009c83c706  XHEARTBEAT/EXEC/xheartbeat_mysql
+XHEARTBEAT_LOAD	      : 350707187f56df0842e667ce2a5004ff  XHEARTBEAT/EXEC/xheartbeat_load
+XHEARTBEAT2	    : 87993a3d6e44e45512574e80a4917960  XHEARTBEAT2/EXEC/xheartbeat2
+XSIAIP		    : aad13b44f7d48c028dbf1cc56d76d82b  XSIAIP/EXEC/xsiaip
+XSIADC09	     	: 1e675ea17a9391a37380eadf49d03622  XSIADC09/EXEC/xsiadc09
+XSIADC09GRIP	: 278c5eb18f133ff62ddcae026e309c3a  XSIADC09GRIP/EXEC/xsiadc09grip
+XSIADC09HUB	     : a487e734acd748b5fdda3289c3c35100  XSIADC09HUB/EXEC/xsiadc09hub
+XFRONTEL		: 07425f7fcb2346457264e7e3b5963fdb  XFRONTEL2/EXEC/xfrontel
+XREPLIK		    : 43517209158b1aa6b4d64f39cbbae2aa  XREPLIK/EXEC/xreplik
+XSYNC		    : ec719e0d94de8f502328e983b97e74b8  XSYNC2/EXEC/xsync
+XGTC		    : 16829e103d5dcaaf5b2da62e551e3f82  XGTC/EXEC/xgtc
+XGTC2		    : 8fde4e75d920ae43e21e15fb1791e07e  XGTC/EXEC/xgtc2
+XGTC3		    : 938be51be4814d7698801d902568fe1a  XGTC/EXEC/xgtc3
+XFTP		    : 333d152645b2617393930d1571851ac6  XFTP/EXEC/xftp
+XCEVTONE		    : 2ad291103a64c487316fb0dd333c0dd3  XCEVTONE/EXEC/xcevtone
+XBOLD             : fad67d6240504870beec5a776afdd56a  XBOLD/EXEC/xbold
+XPARTITION	    : f8ee9e761719025f2ce05d6120b7cb76  XPARTITION/EXEC/xpartition
+XSURGARD		    : 77dd388012fac05bae871241ac0e05cd  XSURGARD/EXEC/xsurgard
+XPURGE		    : 45908255a830a71a7ace76f1513f8564  XPURGE/EXEC/xpurge
+XOPENSSL		    : 4b6bf6d8e5f0e3b5993855a3822490f0  XOPENSSL/EXEC/xopenssl
+XMAIL		    : 7a960d686dff7c22a4c62c60b5b1e5f5  XMAIL/EXEC/xmail
+XSIAUDP		    : 279bdd87469bdd3dd68804132ec42ef7  XSIAUDP/EXEC/xsiaudp
+XCSMS		    : 9150227e53e18394033ff0b0725d24f3  XCSMS/EXEC/xcsms
+TOOLS		: 02f006f57d4aded3f7702048a7d7086f  XCSMS/EXEC/xsmsSender
+TOOLS		: 109c09880caf43d3e2b2fdf491ab983d  XCSMS/EXEC/xsmsSenderCompute
+XIMG		    : f1da0c16a6077db8708e221dc67399f0  XIMG/EXEC/ximg
+XODBC		    : 
+XTICTAC		    : 60381f74f6aa448a858c7d08b3d5fc9e  XTICTAC/EXEC/xtictac
+XPURGEDATABASE	    : db28b9952211af92093bfa9650d0b801  XPURGEDATABASE/EXEC/xpurgedatabase
+XSIP		    : 
+TOOLS		: b46460b97b05add303dfff3d7e4ee10e  XSIP/EXEC/xalawtopcm
+TOOLS		: 973f8a2d2cdca1020c863bca53a47aa9  XSIP/EXEC/xcharpcmtoalaw
+TOOLS		: 14dfb5878f76a7b0f52dfdbef66376cd  XSIP/EXEC/xintandmask2tochar
+TOOLS		: 6eb4544e66a45a63f02fd2ab953639a1  XSIP/EXEC/xintandmask3tochar
+TOOLS		: d9b7b99fcafef4e32a68271efe79d0a2  XSIP/EXEC/xinttochar
+TOOLS		: 7c3a9ede2f352e583a3230d4f9fae485  XSIP/EXEC/xpcmtoalaw
+XCONF		    : e5caef93efd7e9edc3f1c81ea6cecb8d  XCONF/EXEC/xconf
+XCONF2		    : 9133050a9c7e3083d1041a6daa5984d4  XCONF/EXEC/xconf2
+XSECHO2		    : 02f8b6506f07b76f9b2bd9ad33a78413  XSECHO2/EXEC/xsecho2
+XSECHO		    : 2008d8ce5d882e09d171f67ad00a79c9  XSECHO/EXEC/xsecho
+XPING		    : c7bda0ba795183cee94a06ed18b128ea  XPING/EXEC/xping
+XCXML		    : 4de65a6d677c1ed94b3858b75ff5d84a  XCXML/EXEC/xcxml
+XNUAGE2		    : 0fc62485e45ae2a498b7629552233822  XNUAGE2/EXEC/xnuage2
+XNUAGE2_MYSQL	: 399377ac0029b5af523ea40bc95ac594  XNUAGE2/EXEC/xnuage2_mysql
+XCMESSAGE	    : 13d52e750b1d5693859fb6b1a5a01fb9  XCMESSAGE/EXEC/xcmessage
+XCSPEECH		    : ce91765a128b7937b73cd6cdc4d2bb63  XCSPEECH/EXEC/xcspeech
+XACTIVITY	    : c7d1c84f56fdea3ceeaf867a8d2561d1  XACTIVITY/EXEC/xactivity
+XSEARCHSSH	    : 
+XCIST		    : 14decf65f6f559f945eabbe8131b81e6  XCIST/EXEC/xcist
+XPING_IST	   	    : 4a952fd735c102e7104920e3d1bce7bf  XCIST/EXEC/xping_ist
+XSIST		    : 616d621d055cc265f5119b97a31677cd  XSIST/EXEC/xsist
+XSVAT		    : 345b0ab100d0f3da527037721fce0e37  XSVAT/EXEC/xsvat
+XPUSH		: 426190ee893f25af283783fd4b470efa  XPUSH/EXEC/xpush
+XPUSHMONGODB	 : 7fc4d6175d68aa55bb103a1802d76dc5  XPUSHMONGODB/EXEC/xpushmongodb
+XPUSHJSON	 : 402887b27bbefd111dbf2c9d50251c0b  XPUSHJSON/EXEC/xpushjson
+XPUSHJSONBACKUP   : fe977007d37b9a34bec799b6a138819a  XPUSHJSONBACKUP/EXEC/xpushjsonbackup
+XSUPERWEB	 : c2816d060a4b94d05d8f36e8e51a5fea  XSUPERWEB/EXEC/xsupervweb
+XPE12	 : e1a11e7a5502659d6dca1c6f23f08e88  XPE12/EXEC/xpe12
+------------------------------------------------
+
