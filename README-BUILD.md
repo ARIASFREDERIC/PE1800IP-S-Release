@@ -1,5 +1,15 @@
 | OS                                                       | Release                   | Date       | Hour             | Action           |
 | -------------------------------------------------------- | ------------------------- | ---------- | ---------------- | ---------------- |
+| Red-Hat-Enterprise-Linux-Server-release-7.9-Maipo_64b    | V10.29.38                 | 2026-08-11 | 09:18:27.483216Z | A                |
+| Red-Hat-Enterprise-Linux-release-9.8-Plow_64b            | V10.29.38                 | 2026-08-11 | 08:48:53.153357Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.38                 | 2026-08-06 | 08:23:05.723648Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.37                 | 2026-08-06 | 07:52:53.548674Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.36                 | 2026-08-05 | 10:13:54.200736Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.35                 | 2026-08-05 | 08:28:43.401234Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.34                 | 2026-08-04 | 14:38:57.883177Z | M                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.34                 | 2026-08-04 | 14:14:28.832072Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.33                 | 2026-08-04 | 10:32:41.568145Z | A                |
+| Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.32                 | 2026-07-28 | 12:24:46.719082Z | A                |
 | Red-Hat-Enterprise-Linux-release-9.8-Plow_64b            | V10.29.31                 | 2026-07-24 | 11:57:00.118697Z | A                |
 | Red-Hat-Enterprise-Linux-Server-release-7.9-Maipo_64b    | V10.29.31                 | 2026-07-24 | 11:45:03.541970Z | A                |
 | Red-Hat-Enterprise-Linux-release-8.10-Ootpa_64b          | V10.29.31                 | 2026-07-23 | 14:37:55.957915Z | M                |
