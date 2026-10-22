@@ -39,6 +39,21 @@ Folder by OS :
    - Ubuntu 22.x :
    - Ubuntu 24.x : 
 
+## PHP Security issue
+
+For user with system End of life , disbale httpd and nginx and fpm-php.
+For other user, do a update of OS.
+
+- CVE-2026-109618 : https://cert.europa.eu/publications/security-advisories/2026-018
+- CVE-2026-109619 : https://cert.europa.eu/publications/security-advisories/2026-018
+
+See on Oracle Linux :
+- https://linux.oracle.com/errata/ELSA-2026-87080.html : php:7.4 security update for Oracle Linux 8 .
+- https://linux.oracle.com/errata/ELSA-2026-87151.html : php security update for Oracle Linux 9.
+
+It's critical issue. 
+It's recommand to use PE >= 10.29.58. 
+
 ## Oracle Linux 
 
 Support :
